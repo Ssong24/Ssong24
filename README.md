@@ -32,7 +32,6 @@ I'm a Computer Vision Engineer passionate about building innovative solutions in
 ### 💬 Ask Me About
 - Computer vision algorithms
 - 3D geometry processing
-- Video processing pipelines
 - Real-time vision applications
 
 <!-- Feel free to connect with me for collaborations or discussions about computer vision and robotics! -->

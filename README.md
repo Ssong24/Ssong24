@@ -25,6 +25,7 @@ I'm a Machine Learning Engineer passionate about building the solutions related 
 - MLOps & Deployment
 
 ### 👯 Looking to Collaborate On
+- MLOps & DevOps projects
 - Open-source computer vision projects
 - 3D mapping and localization systems
 
